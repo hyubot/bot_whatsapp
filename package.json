@@ -9,12 +9,12 @@
   "author": "ArugaZ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/wahyubot/bot_whatsapp"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/wahyubot/bot_whatsapp/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/wahyubot/bot_whatsapp",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.1.0",
