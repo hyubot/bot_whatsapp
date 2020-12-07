@@ -8,9 +8,9 @@
 * WAHYU BOTS
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'ðŸ‘¾WYUBOT¾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'ðŸ‘¾WYUBOTðŸ¾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/psicyo.lv'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6282323755174'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'http://Wa.me/+6282323755174?teks='; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/JxJPUtpO5fEFxzOU7fcdba'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = '-----'; // JANGAN UBAH-UBAH INFO!!!
@@ -127,7 +127,7 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //ChatA187ID
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, ' _3aalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kamiðŸ™_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kamiðŸ™_ ' ,MessageType.text);
 }
 else if (text == 'salam'){
 conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kamiðŸ™_ ' ,MessageType.text);
@@ -151,7 +151,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner WyuBots wa.me/+6282323755174* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner WyuBots http://wa.me/+6282323755174?teks=* ' ,MessageType.text);
 }
 else if (text == '#help'){
 conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
