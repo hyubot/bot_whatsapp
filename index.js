@@ -215,11 +215,11 @@ conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.
 else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
 }
-else if (text == '.frendsowner'){
-conn.sendMessage(id, 'SUM Add Sum asik dia wa.me/+628557231695' ,MessageType.text);
+else if (text == '.lisa'){
+conn.sendMessage(id, 'Iyaa Kak' ,MessageType.text);
 }
-else if (text == '.coowner'){
-conn.sendMessage(id, 'PUTRA add Putra wa.me/+6289625176924' ,MessageType.text);
+else if (text == '.Lisa'){
+conn.sendMessage(id, 'Iyaa Kak' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL' ,MessageType.text);
