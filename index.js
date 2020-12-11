@@ -5,7 +5,7 @@
 * hargai pembuat skrip woy!!!
 */
 const XPTN = 'L4LISA BOT.'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/psicyo.lv; // Nama Instagramlu cok
+const instagram = 'https://instagram.com/psicyo.lv'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6282323755174'; // Nomor whatsapplu cok
 const aktif = 'Tergantung Jaringan'; // Kapan bot lu aktif
 const groupwa = 'Valid'; // OFFICIAL GRUP LU 1
