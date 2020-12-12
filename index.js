@@ -149,10 +149,10 @@ conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 else if (text == '.owner'){
 conn.sendMessage(id, 'Owner WAHYU L wa.me/+6282323755174' ,MessageType.text);
 }
-else if (text == 'Maslent'){
+else if (text == 'Lalisa'){
 conn.sendMessage(id, 'Aku BOT nya Wahyu L' ,MessageType.text);
 }
-else if (text == 'Chichi'){
+else if (text == 'L4lisa'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
 }
 else if (text == 'bangsat'){
