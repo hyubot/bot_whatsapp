@@ -876,7 +876,7 @@ switch(bulan) {
  case 5: bulan = "Juni"; break;
  case 6: bulan = "Juli"; break;
  case 7: bulan = "Agustus"; break;
- case 8: bulan = "September"; break;
+ case 8: bulan = "September"; break:
  case 9: bulan = "Oktober"; break;
  case 10: bulan = "November"; break;
  case 11: bulan = "Desember"; break;
@@ -1121,7 +1121,7 @@ conn.sendMessage(id, '
 
 *Total Pengguna Bot*: 
  ⚕️Group :8
- ⚕️User : 18' ,MessageType.text);
+,MessageType.text);
 }
 else if (text == '.tools1'){
 conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *L4LISA-BOT* , Follow Instagram Owner Yah : https://instagram.com/psicyo.lv' ,MessageType.text);
