@@ -135,10 +135,10 @@ else if (text == 'Assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik *.help* Untuk Menampilkan Menu' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, Ketik *.help*Untuk Menampilkan Menu' ,MessageType.text);
+conn.sendMessage(id, 'P Juga?, Ketik *.help *Untuk Menampilkan Menu' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, Ketik *.help* Untuk Menampilkan Menu' ,MessageType.text);
+conn.sendMessage(id, 'P Juga?, Ketik *.help* Untuk Menampilkan Menu' ,MessageType.text);
 }
 else if (text == 'Halo'){
 conn.sendMessage(id, 'Halo kak?, Ketik *.help* Untuk Menampilkan Menu' ,MessageType.text);
@@ -201,7 +201,7 @@ else if (text == 'Sayang'){
 conn.sendMessage(id, 'Iyaa Sayang?, Ketik *.help* Untuk Menampilkan Menu' ,MessageType.text);
 }
 else if (text == 'I love u'){
-conn.sendMessage(id, 'love you too' ,MessageType.text);
+conn.sendMessage(id, 'love you too ❤️' ,MessageType.text);
 }
 else if (text == 'Mas'){
 conn.sendMessage(id, 'Ya?, Ketik *.help* Menampilkan Menu' ,MessageType.text);
