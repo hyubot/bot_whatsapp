@@ -232,8 +232,8 @@ conn.sendMessage(id, 'Nee Annyeong Kk ?, Ketik *.help* Untuk Menampilkan Menu' ,
 else if (text == 'Desah'){
 conn.sendMessage(id, 'Ah Ah Ah Shhhhhhhh Pelan Pelan ' ,MessageType.text);
 }
-else if (text == 'Help'){
-conn.sendMessage(id, 'Maaf Fitur *Help* Tidak Tersedia Di Menu'\n'Silahkan Ketik : *.help* ' ,MessageType.text);
+else if (text == 'Tod'){
+conn.sendMessage(id, 'Apaan Tod' ,MessageType.text);
 }
 else if (text == 'LinkGroup'){
 conn.sendMessage(id, 'https://chat.whatsapp.com/Bz7XkMUkvUu2P3XLfz9UrN'\n\n' *Link Group* ' ,MessageType.text);
