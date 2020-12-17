@@ -1117,7 +1117,7 @@ else if (text == '.help'){
 conn.sendMessage(id, ' *Menampilkan Menu* ' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *L4LISA-BOT* , Follow Instagram Owner Yah😻 : https://instagram.com/psicyo.lv' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *L4LISA-BOT* , Follow Instagram Owner Yah : https://instagram.com/psicyo.lv' ,MessageType.text);
 }
 else if (text == '.menu'){
 conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *L4LISA-BOT* , Follow Instagram Owner Yah😻 : https://instagram.com/psicyo.lv' ,MessageType.text);
