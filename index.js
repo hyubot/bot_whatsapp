@@ -851,7 +851,7 @@ var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + ta
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, xp3.xp3(id, XPTN, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, aktif, groupwa, youtube) ,MessageType.text);
 }
-if (text == '.tools4'){
+if (text == '.lol'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
